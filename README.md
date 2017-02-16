@@ -53,6 +53,7 @@ email = **emailadmin**
   ``` php
   define( 'WP_MEMORY_LIMIT', '128M' );
   define ( 'AUTOMATIC_UPDATER_DISABLED', true );
+  define('WP_POST_REVISIONS' false);
   ```
 
 #### PASSO 6
