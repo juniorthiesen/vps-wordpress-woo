@@ -145,4 +145,12 @@ location ~ /purge(/.*) {
 http://www.MINHALOJA.com.br/pma
 ```
 
+#### Instalação de certificado SSL (https) 
+
+Instalação do SSL (com https):
+
+ee site update seusite.com --letsencrypt
+
+Essa certificação é gratuitamente emitida por https://letsencrypt.org/ com duração de 90 dias e é atualizada automaticamente pelo Script EasyEngine após a sua instalação.
+
 
