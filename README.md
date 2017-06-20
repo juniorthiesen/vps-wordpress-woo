@@ -155,4 +155,12 @@ ee site update seusite.com --letsencrypt
 
 Essa certificação é gratuitamente emitida por https://letsencrypt.org/ com duração de 90 dias e é atualizada automaticamente pelo Script EasyEngine após a sua instalação.
 
+#### 
+
+é necessário atualizar as URLs do Site. O modo mais simples de fazer isso é usando o WP-CLI, que é instalado automaticamente pelo EasyEngine.
+
+``` html
+wp search-replace 'http://meusite.com.br' 'https://meusite.com.br'
+```
+
 
