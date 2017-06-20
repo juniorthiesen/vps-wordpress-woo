@@ -146,8 +146,3 @@ http://www.MINHALOJA.com.br/pma
 ```
 
 
-##### [Acesse a Vídeo-Aula AQUI!] (http://youtu.be/m7mGl683Ioc)
-
-# SUCESSO !
-
-## Dúvidas: edisoncosta@lojaplus.com.br
