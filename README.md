@@ -126,7 +126,8 @@ location ~ /purge(/.*) {
 
   ``` php
   # include common/wpfc.conf; 
-  include common/wpfc-woocommerce.conf;
+  # include common/wpfc-woocommerce.conf;
+  
   ```
 
 - chown -R www-data:www-data /var/www/MINHALOJA.com.br/htdocs
